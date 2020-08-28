@@ -1,3 +1,7 @@
+# Fork info
+
+This fork uses the [jaydeebee/GCDWebServer](https://github.com/jaydeebee/GCDWebServer/) fork of [meteor/GCDWebServer](https://github.com/meteor/GCDWebServer/). See [the fork README](https://github.com/jaydeebee/GCDWebServer/blob/master/README.md) for specifics.
+
 # Meteor WebApp Cordova plugin
 
 Cordova apps don’t load web content over the network, but rely on locally stored HTML, CSS, JavaScript code and other assets.
